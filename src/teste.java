@@ -19,6 +19,7 @@ public class teste
 
         System.out.println("total de números pares é: " + contPar);
         System.out.println("total de números impares é: " + contImp);
+        System.out.println("  ");
     }
 
     
